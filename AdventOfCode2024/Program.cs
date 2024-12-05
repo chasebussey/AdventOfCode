@@ -15,3 +15,7 @@ Console.WriteLine($"Day 3, Part 2: {Day3.Part2("../../../Input/Day3.txt")}");
 // Day 4
 Console.WriteLine($"Day 4, Part 1: {Day4.Part1("../../../Input/Day4.txt")}");
 Console.WriteLine($"Day 4, Part 2: {Day4.Part2("../../../Input/Day4.txt")}");
+
+// Day 5
+Console.WriteLine($"Day 5, Part 1: {Day5.Part1("../../../Input/Day5.txt")}");
+Console.WriteLine($"Day 5, Part 2: {Day5.Part2("../../../Input/Day5.txt")}");
